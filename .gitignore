@@ -1,0 +1,10 @@
+*.swp
+*.idle
+*.pycrm
+.idea/.gitignore
+.idea/Awspractice.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/Awspractice.iml
+
